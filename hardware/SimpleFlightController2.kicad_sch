@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 5d4a7f07-12db-4031-a559-a3a925791ff3)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+  (junction (at 0 0) (diameter 0) (color 0 0 0 0)
+    (uuid 00000000-0000-0000-0000-000000000000)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
